@@ -1,0 +1,27 @@
+[
+    {
+        "idx": 1,
+        "question":"What is Next.js?",
+        "answer":"Next.js is an open-source, lightweight React.js framework that facilitates developers to build static and server-side rendering web applications."
+    },
+    {
+        "idx": 2,
+        "question":"Which types of websites most popularly use Next.js?",
+        "answer":"• Static Websites \n • Desktop Websites\n • SEO Friendly Websites\n • Server Rendered Apps\n • Progressive Web Apps (PWA) etc."
+    },
+    {
+        "idx": 3,
+        "question":"Are Create-React-App and Next.js used for the same thing?",
+        "answer":"The Create-React-App is basically React with an integrated build system. It acts like a good boilerplate, so we don't need to set up Webpack, Babel, and other dependent packages to run React. Other than that, if you require extra functionalities such as routing, server-side rendering, you just need to add packages on top of Create-React-App. On the other hand, The Next.js is an open-source, lightweight full-stack React framework that comes bundled with an efficient build system, server-side rendering, routing, API routing, and many other awesome features that make the production environment easy."
+    },
+    {
+        "idx": 4,
+        "question":"How can you configure the build-id in Next.js",
+        "answer":"To configure the build-id in Next.js, we must configure a static ID between our builds. So, we have to provide the 'generateBuildId' function with the following configuration."
+    },
+    {
+        "idx": 5,
+        "question":"What is AMP in Next.js?",
+        "answer":"The AMP-First Pages are served to the primary traffic of the website as well as traffic generated from the search engine."
+    }
+]
